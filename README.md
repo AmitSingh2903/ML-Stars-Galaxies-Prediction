@@ -3,7 +3,7 @@ TITLE: Predicting Stars, Galaxies, and Quasars using Machine Learning
 PROJECT DESCRIPTION:
 
 This project aims to predict the type of astronomical object (star, galaxy, or quasar) based on a set of features. 
-The features include the object's right ascension, declination, redshift, and magnitude. The data was obtained from the Sloan Digital Sky Survey (SDSS) and is available on Kaggle.
+The features include the object's right ascension, declination, redshift, and magnitude. 
 
 DATA PRE-PROCESSING:
 
