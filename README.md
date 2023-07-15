@@ -44,10 +44,10 @@ This project took 5 days to complete.
 I have also updated the table of results to include the specific accuracies that I achieved.
 
     Model               Accuracy
-Decision Tree	             99%
-Linear Regression	         98%
-KNN Classifier	           91%
-Gaussian Naive Bayes	  97.50%
-Random Forest	          98.90%
-SVC	                    95.33%
+    Decision Tree	             99%
+    Linear Regression	         98%
+    KNN Classifier	           91% 
+    Gaussian Naive Bayes	  97.50%
+    Random Forest	          98.90%
+    SVC	                    95.33%
 
